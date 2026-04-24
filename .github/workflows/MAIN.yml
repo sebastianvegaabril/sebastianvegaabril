@@ -19,11 +19,10 @@ trabajos:
     timeout-minutes:  10 
     
     pasos: 
-      # genera un juego de serpiente a partir del gráfico de contribuciones de un usuario de github (<github_user_name>), genera una animación svg en <svg_out_path> 
       -  nombre:  generar  github-contribution-grid-snake.svg 
         usa:  Platane/snk/svg-only@v3 
         con: 
-          github_user_name:  ${{  github.repository_owner  }} 
+          github_user_name:  ${{  sebastianvegaabril  }} 
           salidas:  | 
             dist/github-contribution-grid-snake.svg 
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark 
