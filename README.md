@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sebastián 👋 </h1>
-<h4 align="center">Software Eng. Student @ ORT | Developer @ Urudata Software</h4>
+<h4 align="center">Software Engineering Student @ ORT | Developer @ Urudata Software</h4>
 
 <p align="center">
   Currently working with C# on the backend and Angular on the frontend.
