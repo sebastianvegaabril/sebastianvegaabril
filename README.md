@@ -1,4 +1,4 @@
-<h4 align="center">Software Engineering Student @ ORT | Developer @ Urudata Software</h4>
+<h4 align="center">Software Engineering Student @ ORT | Developer @ Silver River</h4>
 
 <p align="center">
   Currently working with C# on the backend and Angular on the frontend.
